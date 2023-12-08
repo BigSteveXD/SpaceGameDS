@@ -1,2 +1,2 @@
 # SpaceGameDS
-Simple game made with devkitPro. Destroy asteroids and enemy spaceships to achieve a high score.
+Simple homebrew game made with devkitPro for the Nintendo DS. Destroy asteroids and enemy spaceships to achieve a high score.
